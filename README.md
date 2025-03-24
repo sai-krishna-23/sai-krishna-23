@@ -43,7 +43,7 @@ Saikrishnak = {
     "status": "alive",
     "doing": "Exploring New Technologies and Coding...",
     "code": ["Python"],
-    "ask_me_about": ["software development", "DevOps", "AI"],
+    "ask_me_about": ["Tools", "DevOps", "AI"],
     "contact": {
         "email": "saikrishnakesavan23@gmail.com",
         "linkedin": "@sai-krishna",
