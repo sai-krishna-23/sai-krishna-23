@@ -1,6 +1,10 @@
-# Hi, I'm **Krish** 👋
+# Hi, I'm **<span style="color:blue">Krish</span>** 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;A+Software+Developer;A+Python+Developer;A+DevOps+Engineer;Explorer+Of+Technologies;)](https://git.io/typing-svg)
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![AI](https://img.shields.io/badge/AI-Enthusiast-green)
@@ -43,7 +47,7 @@ Saikrishnak = {
     "status": "alive",
     "doing": "Exploring New Technologies and Coding...",
     "code": ["Python"],
-    "ask_me_about": ["Tools", "DevOps", "AI"],
+    "ask_me_about": ["software development", "DevOps", "AI"],
     "contact": {
         "email": "saikrishnakesavan23@gmail.com",
         "linkedin": "@sai-krishna",
@@ -55,16 +59,16 @@ Saikrishnak = {
 ---
 
 ## 📫 How to Reach Me
-<p align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/sai-krishna-7bb669231" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
   <a href="mailto:saikrishnakesavan23@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
   </a>
   <a href="https://www.instagram.com/krish_deekshii" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
   </a>
-</p>
+</div>
 
 ---
