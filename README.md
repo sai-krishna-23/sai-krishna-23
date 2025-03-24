@@ -1,4 +1,4 @@
-# Hi, I'm **Krish** 👋
+# Hi, I'm **Krish** And I'M 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;A+Software+Developer;A+Python+Developer;A+DevOps+Engineer;Explorer+Of+Technologies;)](https://git.io/typing-svg)
 
