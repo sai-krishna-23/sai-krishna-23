@@ -1,4 +1,4 @@
-# Hi, I'm **Krish** And I'M
+# Hi, I'm **Krish** 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;A+Software+Developer;A+Python+Developer;A+DevOps+Engineer;Explorer+Of+Technologies;)](https://git.io/typing-svg)
 
@@ -13,11 +13,17 @@
 ### Languages & Tools
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="jenkins logo" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="40" alt="kubernetes logo" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" alt="github logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="40" alt="azure logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="40" alt="kubernetes logo" />
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="40" alt="ansible logo" />
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="40" alt="terraform logo" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="jenkins logo" />
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="40" alt="prometheus logo" />
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="40" alt="grafana logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="linux logo" />
 </p>
 
