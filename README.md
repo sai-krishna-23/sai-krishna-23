@@ -1,3 +1,4 @@
+![iron man](https://github.com/user-attachments/assets/27f39adb-cb9c-42b9-a596-136f04c0185a)
 # Hi, I'm **<span style="color:blue">Krish</span>** 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;A+Software+Developer;A+Python+Developer;A+DevOps+Engineer;Explorer+Of+Technologies;)](https://git.io/typing-svg)
