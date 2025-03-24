@@ -3,9 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;A+Software+Developer;A+Python+Developer;A+DevOps+Engineer;Explorer+Of+Technologies;)](https://git.io/typing-svg)
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![AI](https://img.shields.io/badge/AI-Enthusiast-green)
