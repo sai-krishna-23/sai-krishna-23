@@ -1,4 +1,4 @@
-# Hi, I'm **Krish** And I'M 
+# Hi, I'm **Krish** And I'M
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;A+Software+Developer;A+Python+Developer;A+DevOps+Engineer;Explorer+Of+Technologies;)](https://git.io/typing-svg)
 
@@ -62,5 +62,3 @@ Saikrishnak = {
 </p>
 
 ---
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
